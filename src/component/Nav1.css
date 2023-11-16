@@ -1,0 +1,65 @@
+.navbar{
+    background-color: orangered;
+    height: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+    
+    
+}
+
+.dropdown2{
+    /* text-decoration: none; */
+    /* padding-top:3px ; */
+    /* text-align: center; */
+    width: 30%;
+}
+
+.custom-width{
+    width: 60%;
+    margin-left:10% ;
+    margin-right: 10%;
+    color: aliceblue;
+    padding-top:4px ;
+    text-align: center;
+   
+}
+
+.font-bold{
+    
+  
+    font-weight: 400;
+}
+
+.custom-text-color{
+    color: aliceblue;
+}
+
+.fast-track{
+    padding-top: 8px;
+    color: aliceblue;
+}
+
+.credit-Card{
+    color: darkgreen;
+     padding-top: 13px;
+     padding-left: 20px;
+    
+}
+
+.dark-cir {
+    display: flex;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(224, 97, 50);
+    padding-left: 20px;
+    /* padding-top: 10px; */
+  }
+  
+  /* Apply display: inline-block to child elements */
+  .dark-cir > * {
+    display: inline-block;
+    margin: 3px; /* Add margin for spacing between items */
+  }
+
+  

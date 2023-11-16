@@ -1,0 +1,20 @@
+.navbar2{
+   justify-content: center;
+   position: relative;
+}
+
+/* .custom-width{
+    width: 80%;
+    margin-left:10% ;
+    margin-right: 10%;
+   
+} */
+
+.fast{
+    color: black;
+    
+}
+
+.icon{
+    padding-top: 10px;
+}
