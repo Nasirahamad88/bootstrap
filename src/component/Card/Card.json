@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Mobile",
+      "image": "https://i.imgur.com/9VZGPJF.jpg",
+      "description": "This is a Mobile phone with all the advanced features and at the best price.",
+      "price": "$50",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Camera",
+      "image": "https://i.imgur.com/Fc9aj6m.jpg",
+      "description": "Comes with advance sensors, this is a perfect match for photographers.",
+      "price": "$60",
+      "rating": 5
+    },
+    {
+      "name": "Watch",
+      "image": "https://i.imgur.com/FDdJ4Xm.jpg",
+      "description": "Smartwatch with Easy-to-go connect option and fitness tracking functions.",
+      "price": "$70",
+      "rating": 5
+    }
+  ]
+  

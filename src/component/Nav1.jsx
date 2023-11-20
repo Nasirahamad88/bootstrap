@@ -6,13 +6,16 @@ import { faCircle, faCreditCard, faGlobe,  faLocationDot, faPaste, faTags, faTru
 function Nav1() {
   return (
     <div className=''>
-      <nav className="navbar navbar-expand-lg ">
-        <div className="container-fluid  ">
-          <a className="navbar-brand custom-text-color " href="#">
-          <div>
-          <FontAwesomeIcon icon={faLocationDot} className='px-1'/>
+        <nav className="navbar navbar-expand-lg ">
+          <div className="container-fluid  ">
+          <a className="navbar-brand custom-text-color "
+            href="#">
+
+            
+                                 <div>
+  <FontAwesomeIcon icon={faLocationDot} className='px-1'/>
       Delivery to 
-    </div>
+                                                    </div>
           </a>
           <button
             className="navbar-toggler btn btn-warning"

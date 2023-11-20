@@ -1,14 +1,27 @@
 import React from 'react'
+import { Col, Container, Row } from 'react-bootstrap'
 
 function Hero() {
   return (
-    <div className='pt-2'>
+
+     <Container className='position-relative top-10 start-0'>
+      <Row >
+        <Col >
+          <div className='position-absolute top-50 start-0'>
+            <h2>Welcome To Our Shop!</h2>
+            <p>I'm Nasir Ahamad, a passionate front-end developer with a keen eye for creating immersive user experiences. As a tech enthusiast, I am excited about the opportunity to contribute</p>
+          </div>
+          
+        
+        </Col>
+        <Col>
+          <div className='pt-2'>
         <div id="carouselExampleCaptions" className="carousel slide ">
-  <div className="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
+        <div className="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
       <img src="https://wallpapercave.com/wp/wp2775459.jpg" className="d-block w-100" alt="..."/>
@@ -42,6 +55,12 @@ function Hero() {
   </button>
 </div>
     </div>
+        
+        </Col>
+      </Row>
+      
+    </Container>
+    
   )
 }
 
